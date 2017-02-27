@@ -4,6 +4,6 @@ class Foo {
     // stuff
   };
   classMethod() {
-    return this.publicClassField();
+    return this.publicClassField()
   }
 }
