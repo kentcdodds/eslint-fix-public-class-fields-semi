@@ -8,5 +8,9 @@
   "devDependencies": {
     "babel-eslint": "^7.1.1",
     "eslint": "^3.16.1"
+  },
+  "scripts": {
+    "lint": "eslint index.js",
+    "fix": "eslint --fix index.js"
   }
 }
