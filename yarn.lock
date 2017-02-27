@@ -294,6 +294,10 @@ escope@^3.6.0:
     esrecurse "^4.1.0"
     estraverse "^4.1.1"
 
+eslint-plugin-babel@aaronjensen/eslint-plugin-babel#add-babel-semi:
+  version "4.0.1"
+  resolved "https://codeload.github.com/aaronjensen/eslint-plugin-babel/tar.gz/a98accbe4dd7510311b596de581ab990c324a57c"
+
 eslint@^3.16.1:
   version "3.16.1"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-3.16.1.tgz#9bc31fc7341692cf772e80607508f67d711c5609"

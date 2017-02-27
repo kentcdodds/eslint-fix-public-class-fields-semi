@@ -3,7 +3,10 @@
   "parserOptions": {
     "ecmaVersion": 7
   },
+  "plugins": [
+    "babel"
+  ],
   "rules": {
-    "semi": [2, "never"]
+    "babel/semi": [2, "never"]
   }
 }
